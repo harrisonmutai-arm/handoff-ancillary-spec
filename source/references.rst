@@ -13,7 +13,7 @@
 References
 ==========
 
-.. [FWH] Firmware Handoff specification <https://github.com/FirmwareHandoff/firmware_handoff>__`
+.. [FWH] `Firmware Handoff specification <https://github.com/FirmwareHandoff/firmware_handoff>`__
 
 .. [DT] `Devicetree Specification v0.4 <https://github.com/devicetree-org/devicetree-specification/releases/tag/v0.4>`__
 
