@@ -10,5 +10,41 @@ Project Specific Transfer Entries documentation.
 .. glossary::
    :sorted:
 
-   ACPI
-      Advanced Configuration and Power Interface
+   AArch32
+      32-bit execution state of the Arm A-profile architecture
+
+   AArch64
+      64-bit execution state of the Arm A-profile architecture
+
+   DT
+      Device Tree
+
+   FDT
+      Flattened Device Tree
+
+   FF-A
+      Firmware Framework for Arm A-profile
+
+   OP-TEE
+      Open Portable Trusted Execution Environment
+
+   OS
+      Operating System
+
+   SP
+      Secure Partition
+
+   SPM
+      Secure Partition Manager
+
+   SPMC
+      Secure Partition Manager Core
+
+   SPMD
+      Secure Partition Manager Dispatcher
+
+   SPMCATTR
+      Attribute defined in the SPMC Manifest
+
+   Tag-ID
+      An Identifier to determine content of Transfer Entry
